@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nfse>
+  <nf>
+    <numero_nfse>2006</numero_nfse>
+    <serie_nfse>1</serie_nfse>
+    <data_nfse>02/05/2017</data_nfse>
+    <hora_nfse>10:25:30</hora_nfse>
+    <valor_total>146,00</valor_total>
+    <valor_desconto>0,00</valor_desconto>
+    <valor_ir>0,00</valor_ir>
+    <valor_inss>0,00</valor_inss>
+    <valor_contribuicao_social>0,00</valor_contribuicao_social>
+    <valor_rps>0,00</valor_rps>
+    <valor_pis>0,00</valor_pis>
+    <valor_cofins>0,00</valor_cofins>
+    <observacao>VENCIMENTO : 02/06/2017 COM BOLETO</observacao>
+  </nf>
+  <prestador>
+    <cpfcnpj>7231100000178</cpfcnpj>
+    <cidade>8147</cidade>
+  </prestador>
+  <tomador>
+    <tipo>J</tipo>
+    <cpfcnpj>2008699000161</cpfcnpj>
+    <ie></ie>
+    <nome_razao_social>MADEIREIRA ITOUPAVAZINHA LTDA ME</nome_razao_social>
+    <sobrenome_nome_fantasia></sobrenome_nome_fantasia>
+    <logradouro>FREDERICO JENSEN, 4070</logradouro>
+    <email></email>
+    <complemento></complemento>
+    <ponto_referencia></ponto_referencia>
+    <bairro>ITOUPAVAZINHA</bairro>
+    <cidade>BLUMENAU</cidade>
+    <cep>89062101</cep>
+    <ddd_fone_comercial></ddd_fone_comercial>
+    <fone_comercial></fone_comercial>
+    <ddd_fone_residencial></ddd_fone_residencial>
+    <fone_residencial></fone_residencial>
+    <ddd_fax></ddd_fax>
+    <fone_fax></fone_fax>
+  </tomador>
+  <itens>
+    <lista>
+      <codigo_local_prestacao_servico>8147</codigo_local_prestacao_servico>
+      <codigo_item_lista_servico>1405</codigo_item_lista_servico>
+      <descritivo>AFIAÇÃO DE FERRAMENTAS</descritivo>
+      <aliquota_item_lista_servico>2,79</aliquota_item_lista_servico>
+      <situacao_tributaria>0</situacao_tributaria>
+      <valor_tributavel>146,00</valor_tributavel>
+      <valor_deducao>0,00</valor_deducao>
+      <valor_issrf>0,00</valor_issrf>
+      <tributa_municipio_prestador>S</tributa_municipio_prestador>
+      <unidade_codigo></unidade_codigo>
+      <unidade_quantidade></unidade_quantidade>
+      <unidade_valor_unitario></unidade_valor_unitario>
+    </lista>
+  </itens>
+</nfse>
